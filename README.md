@@ -2,7 +2,7 @@
 
 # CORGI #
 
-Main repository for ["CORGI: User Customizable and Robust Geo-Indistinguishability for Location Privacy" (EDBT/ICDT 2023)](https://arxiv.org/abs/2206.08396?context=cs) [bibtex]
+Main repository for ["CORGI: User Customizable and Robust Geo-Indistinguishability for Location Privacy" (EDBT/ICDT 2023)](https://arxiv.org/abs/2206.08396?context=cs) [bibtex](https://github.com/User-Privacy/CORGI)
 
 ## Brief Intro ##
 ![](Results/CORGI.png)
