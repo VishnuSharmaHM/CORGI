@@ -8,21 +8,21 @@ Main repository for ["TACO: ATree-based Approach to Customizing Location Obfusca
 
 
 ## Repository Structure ##
-├── Tattle-Tale/</ br>
-│   ├── src/main/                        *Main directory</ br>
-|       ├── java/                        *Java source code</ br>
-|       └── resources/                   *Database configuration directory</ br>
-│   ├── plot                             *Plotting code</ br>
-|       └── /eva/                        *Directory to store output report</ br>
-│   ├── testdata/                        *Directory to place test and constraint files</ br>
-|       ├── testcases/</ br>
-|       └── data constraint files</ br>
-|   ├── testscript/                      *Tools and scripts for testing</ br>
-|       ├── holoclean_test_script.py     *For generating Holoclean test script</ br>
-|       ├── imputation_algorithms.py     *Weighted sampling</ br>
-|       ├── testcase_gen_tax.py          *For generating testcases on Tax</ br>
-|       └── testcase_gen_hospital.py     *For generating testcases on Hospital</ br>
-|   └── pom.xml                          *Project dependency</ br>
+├── Tattle-Tale/<br />
+│   ├── src/main/                        *Main directory<br />
+|       ├── java/                        *Java source code<br />
+|       └── resources/                   *Database configuration directory<br />
+│   ├── plot                             *Plotting code<br />
+|       └── /eva/                        *Directory to store output report<br />
+│   ├── testdata/                        *Directory to place test and constraint files<br />
+|       ├── testcases/<br />
+|       └── data constraint files<br />
+|   ├── testscript/                      *Tools and scripts for testing<br />
+|       ├── holoclean_test_script.py     *For generating Holoclean test script<br />
+|       ├── imputation_algorithms.py     *Weighted sampling<br />
+|       ├── testcase_gen_tax.py          *For generating testcases on Tax<br />
+|       └── testcase_gen_hospital.py     *For generating testcases on Hospital<br />
+|   └── pom.xml                          *Project dependency<br />
 
 
 ## Code Guide ##
