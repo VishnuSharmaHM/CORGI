@@ -6,7 +6,6 @@ Main repository for ["CORGI: User Customizable and Robust Geo-Indistinguishabili
 
 ## Brief Intro ##
 ![](Results/CORGI.png)
-![Alt text](https://github.com/User-Privacy/CORGI/tree/main/Results/CORGI.png?raw=true "Title")
 
 ## Repository Structure ##
 
