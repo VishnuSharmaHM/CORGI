@@ -6,38 +6,26 @@ Main repository for ["TACO: ATree-based Approach to Customizing Location Obfusca
 
 ## Brief Intro ##
 
-├── Tattle-Tale/
-│   ├── src/main/                        *Main directory
-|       ├── java/                        *Java source code
-|       └── resources/                   *Database configuration directory
-│   ├── plot                             *Plotting code
-|       └── /eva/                        *Directory to store output report
-│   ├── testdata/                        *Directory to place test and constraint files
-|       ├── testcases/
-|       └── data constraint files
-|   ├── testscript/                      *Tools and scripts for testing
-|       ├── holoclean_test_script.py     *For generating Holoclean test script
-|       ├── imputation_algorithms.py     *Weighted sampling
-|       ├── testcase_gen_tax.py          *For generating testcases on Tax
-|       └── testcase_gen_hospital.py     *For generating testcases on Hospital
-|   └── pom.xml                          *Project dependency
 
 ## Repository Structure ##
-├── Tattle-Tale/<br />
-│   ├── src/main/                        *Main directory<br />
-|       ├── java/                        *Java source code<br />
-|       └── resources/                   *Database configuration directory<br />
-│   ├── plot                             *Plotting code<br />
-|       └── /eva/                        *Directory to store output report<br />
-│   ├── testdata/                        *Directory to place test and constraint files<br />
-|       ├── testcases/<br />
-|       └── data constraint files<br />
-|   ├── testscript/                      *Tools and scripts for testing<br />
-|       ├── holoclean_test_script.py     *For generating Holoclean test script<br />
-|       ├── imputation_algorithms.py     *Weighted sampling<br />
-|       ├── testcase_gen_tax.py          *For generating testcases on Tax<br />
-|       └── testcase_gen_hospital.py     *For generating testcases on Hospital<br />
-|   └── pom.xml                          *Project dependency<br />
+.
++-- _config.yml
++-- _drafts
+|   +-- begin-with-the-crazy-ideas.textile
+|   +-- on-simplicity-in-technology.markdown
++-- _includes
+|   +-- footer.html
+|   +-- header.html
++-- _layouts
+|   +-- default.html
+|   +-- post.html
++-- _posts
+|   +-- 2007-10-29-why-every-programmer-should-play-nethack.textile
+|   +-- 2009-04-26-barcamp-boston-4-roundup.textile
++-- _data
+|   +-- members.yml
++-- _site
++-- index.html                      *Project dependency<br />
 
 
 ## Code Guide ##
