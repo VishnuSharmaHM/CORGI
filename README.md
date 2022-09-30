@@ -1,6 +1,6 @@
 arXiv License conference
 
-Markup :  # CORGI #
+# CORGI #
 
 
 Correspondence<br />
