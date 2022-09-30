@@ -65,7 +65,7 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 │   ├── z_robust_diff_delta5_1.mat
 │   ├── z_robust_diff_delta_diff.mat
 │   └── z_robust_diff_delta_diff_70.mat
-├── README.md
+└── README.md
 ```
 
 ## Correspondence ##
