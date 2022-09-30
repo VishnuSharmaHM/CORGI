@@ -32,14 +32,17 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 │   ├── robust_obf_matrix.m
 │   ├──robust_obf_matrix2.m
 │   ├──testprunedlocation.asv
-│   └── testprunedlocation.m                 #
+│   └── testprunedlocation.m
 ├── Results
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   └── 
+│   ├── CPR.csv
+│   ├── Cooordinates7.xlsx
+│   ├── Coordinates.csv
+│   ├── Coordinates.xls
+│   ├── Coordinates3layer.xlsx
+│   ├── Coordinates_update.xlsx
+│   ├── Tree_Structure.xlsx
+│   ├── prior_prob_343.mat
+│   └── tree.txt
 ├── Data
 │   ├── 
 │   ├── 
