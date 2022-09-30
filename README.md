@@ -15,12 +15,24 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 
 ```bash
 ├── Code
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   └── 
+│   ├── CPR_location.m
+│   ├── dataprocessing.asv
+│   ├── dataprocessing.m
+│   ├── figures.m
+│   ├── haversine.m
+│   ├── main.asv
+│   ├── main.m
+│   ├── maxratio.asv
+│   ├── maxratio.m
+│   ├── maxratioapprox.m
+│   ├── newfigures.m
+│   ├── obf_laplace.m
+│   ├── obf_matrix.m
+│   ├── parameters.m
+│   ├── robust_obf_matrix.m
+│   ├──robust_obf_matrix2.m
+│   ├──testprunedlocation.asv
+│   └── testprunedlocation.m                 #
 ├── Results
 │   ├── 
 │   ├── 
@@ -29,13 +41,6 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 │   ├── 
 │   └── 
 ├── Data
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   ├── 
-│   └── 
-├── Test
 │   ├── 
 │   ├── 
 │   ├── 
