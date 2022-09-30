@@ -8,7 +8,7 @@ Main repository for ["TACO: ATree-based Approach to Customizing Location Obfusca
 
 
 ## Repository Structure ##
-.
+'''.
 +-- _config.yml
 +-- _drafts
 |   +-- begin-with-the-crazy-ideas.textile
@@ -26,7 +26,7 @@ Main repository for ["TACO: ATree-based Approach to Customizing Location Obfusca
 |   +-- members.yml
 +-- _site
 +-- index.html                      *Project dependency<br />
-
+'''
 
 ## Code Guide ##
 
