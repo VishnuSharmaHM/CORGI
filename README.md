@@ -2,6 +2,7 @@ arXiv License conference
 
 # CORGI #
 
+Main repository for ["TACO: ATree-based Approach to Customizing Location Obfuscation based on User Policies" (VLDB 2022)](https://arxiv.org/abs/2206.08396?context=cs) [bibtex]
 
 Correspondence<br />
 📬 Primal Pappachan [📜](mailto:primal@psu.edu) [Homepage](https://primalpappachan.com/)<br />
