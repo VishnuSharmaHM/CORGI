@@ -5,7 +5,7 @@
 Main repository for ["CORGI: User Customizable and Robust Geo-Indistinguishability for Location Privacy" (EDBT/ICDT 2023)](https://arxiv.org/abs/2206.08396?context=cs) [bibtex]
 
 ## Brief Intro ##
-![arch](https://github.com/VishnuSharmaHM/SPAM-Classifier/CORGI.png)
+![](Results/CORGI.png)
 ![Alt text](https://github.com/User-Privacy/CORGI/tree/main/Results/CORGI.png?raw=true "Title")
 
 ## Repository Structure ##
