@@ -7,6 +7,7 @@ Main repository for ["CORGI: User Customizable and Robust Geo-Indistinguishabili
 ## Brief Intro ##
 CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generating location obfuscation with strong privacy guarantees (based on Geo-Ind) that effectively allows users to balance the trade-off between privacy, utility, and customization. CORGI utilizes an untrusted server for performing the computationally heavy task of generating the obfuscation function while ensuring the privacy of the user.
 
+<br />
 
 ![](Results/CORGI.png)
 
