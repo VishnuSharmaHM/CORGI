@@ -2,7 +2,7 @@
 
 # CORGI #
 
-Main repository for ["TACO: ATree-based Approach to Customizing Location Obfuscation based on User Policies" (VLDB 2022)](https://arxiv.org/abs/2206.08396?context=cs) [bibtex]
+Main repository for ["TACO: ATree-based Approach to Customizing Location Obfuscation based on User Policies" (EDBT/ICDT 2023)](https://arxiv.org/abs/2206.08396?context=cs) [bibtex]
 
 ## Brief Intro ##
 
