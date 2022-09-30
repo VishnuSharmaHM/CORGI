@@ -14,7 +14,7 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 ## Repository Structure ##
 
 ```bash
-├── app
+├── Code
 │   ├── css
 │   │   ├── **/*.css
 │   ├── favicon.ico
@@ -23,15 +23,10 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 │   ├── js
 │   │   ├── **/*.js
 │   └── partials/template
-├── dist (or build)
-├── node_modules
-├── bower_components (if using bower)
-├── test
-├── Gruntfile.js/gulpfile.js
+├── Results
+├── Data
+├── Test
 ├── README.md
-├── package.json
-├── bower.json (if using bower)
-└── .gitignore
 ```
 
 ## Correspondence ##
