@@ -1,4 +1,4 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2206.08396-b31b1b.svg)](https://arxiv.org/abs/2206.08396)  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![conference](https://img.shields.io/badge/EDBT/ICDT--2023-Review-Review)](https://www.edbt.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-2206.08396-b31b1b.svg)](https://arxiv.org/abs/2206.08396)[![conference](https://img.shields.io/badge/EDBT/ICDT--2023-Review-Review)](https://www.edbt.org/)
 
 # CORGI #
 
