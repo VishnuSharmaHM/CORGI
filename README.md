@@ -1,4 +1,3 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2206.08396-b31b1b.svg)](https://arxiv.org/abs/2206.08396) [![conference](https://img.shields.io/badge/EDBT/ICDT--2023-Review-Review)](https://www.edbt.org/)
 
 # CORGI #
 
