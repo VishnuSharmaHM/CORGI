@@ -66,6 +66,14 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 │   └── z_robust_diff_delta_diff_70.mat
 └── README.md
 ```
+## Code Guide ##
+Excute main.m in the Code folder. The code will generate 6 output .mat files.
+1) running_time.mat
+2) z_fval.mat
+3) z_fval_robust.mat
+4) z_robust_diff.mat
+5) nr_violates1.mat
+6) nr_violates2.mat
 
 ## Correspondence ##
 
