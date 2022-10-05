@@ -16,10 +16,10 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 ├── Code
 │   ├── haversine.m              * Calculates haversine distance between two locations.
 │   ├── main.m                   * Execute this code to generate output file.
-│   ├── parameters.m             * Set the values of various privacy parameter
-│   └── robust_obf_matrix2.m     * Generates robust obfuscation matrix depending on the parameters.
+│   ├── parameters.m             * Set the values of various privacy parameters.
+│   └── robust_obf_matrix2.m     * Generates robust obfuscation matrix depending on the input parameters.
 ├── Data
-│   ├── Coordinates3layer.xlsx   * Information of Latitude and Longitude values of 1 Parent node, 7 nodes in height-1, 49 nodes in height-2 and 343 nodes in height-3. 
+│   ├── Coordinates3layer.xlsx   * Latitude and Longitude values of 1 Parent node, 7 nodes in height-1, 49 nodes in height-2 and 343 nodes in height-3. 
 │   └── prior_prob_343.mat       * Prior probability of all the 343 leaf nodes of the tree.
 ├── Results
 │   ├── nr_violates1.mat         *
