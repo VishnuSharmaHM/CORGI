@@ -87,8 +87,10 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
     g. DELTA - Number of locations to be pruned. <br />
     h. ITER_MAX - Number of interations for each delta value. <br />
 4. Select the main.m and execute it by clicking "RUN" in MATLAB (In Code directory).
+
    ![](Results/CORGI.png)
-6. After execution is completed, 6 .mat file will be stored in data directory. <br />
+  
+5. After execution is completed, 6 .mat file will be stored in data directory. <br />
     a. running_time.mat <br />
     b. z_fval.mat <br />
     c. z_fval_robust.mat <br />
