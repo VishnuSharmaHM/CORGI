@@ -77,7 +77,7 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
     > save ('.\z_robust_diff.mat', 'z_robust_diff')  <br />
     > save ('.\nr_violates1.mat', 'nr_violates1')  <br />
     > save ('.\nr_violates2.mat', 'nr_violates2')  <br />
-3. Update the values of the parameter.m (In Code directory) file.
+3. Update the values of the parameter.m (In Code directory) file. <br />
     a. NR_TASK - Number of Target location. <br />
     b. NR_LOC  - Total number of coordinates in the tree. <br />
     c. EPSILON - Privacy budget. <br />
