@@ -67,13 +67,24 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 └── README.md
 ```
 ## Code Guide ##
-Excute main.m in the Code folder. The code will generate 6 output .mat files.
-1) running_time.mat
-2) z_fval.mat
-3) z_fval_robust.mat
-4) z_robust_diff.mat
-5) nr_violates1.mat
-6) nr_violates2.mat
+1. Install the MATLAB if it is not installed in your system.
+2. Update the address of the data directory and address of the ouput file to the approriate address in main.m (In Code directory).
+    > xy_coord = xlsread('.\data\Coordinates3layer.xlsx')  <br />
+    > load('.\data\prior_prob_343.mat')  <br />
+    > save ('.\running_time.mat', 'running_time')  <br />
+    > save ('.\z_fval.mat', 'z_fval')  <br />
+    > save ('.\z_fval_robust.mat', 'z_fval_robust')  <br />
+    > save ('.\z_robust_diff.mat', 'z_robust_diff')  <br />
+    > save ('.\nr_violates1.mat', 'nr_violates1')  <br />
+    > save ('.\nr_violates2.mat', 'nr_violates2')  <br />
+3. Execute the main.m in MATLAB (In Code directory).
+4. After execution is completed, 6 .mat file will be stored in data directory. <br />
+  a. running_time.mat <br />
+  b. z_fval.mat <br />
+  c. z_fval_robust.mat <br />
+  d. z_robust_diff.mat <br />
+  e. nr_violates1.mat <br />
+  f. nr_violates2.mat <br />
 
 ## Correspondence ##
 
