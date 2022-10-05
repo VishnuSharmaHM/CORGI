@@ -77,8 +77,9 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
     > save ('.\z_robust_diff.mat', 'z_robust_diff')  <br />
     > save ('.\nr_violates1.mat', 'nr_violates1')  <br />
     > save ('.\nr_violates2.mat', 'nr_violates2')  <br />
-3. Execute the main.m in MATLAB (In Code directory).
-4. After execution is completed, 6 .mat file will be stored in data directory. <br />
+3.
+4. Execute the main.m in MATLAB (In Code directory).
+5. After execution is completed, 6 .mat file will be stored in data directory. <br />
   a. running_time.mat <br />
   b. z_fval.mat <br />
   c. z_fval_robust.mat <br />
