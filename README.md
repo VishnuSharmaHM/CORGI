@@ -14,56 +14,19 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 
 ```bash
 ├── Code
-│   ├── CPR_location.m
-│   ├── dataprocessing.asv
-│   ├── dataprocessing.m
-│   ├── figures.m
 │   ├── haversine.m
-│   ├── main.asv
 │   ├── main.m
-│   ├── maxratio.asv
-│   ├── maxratio.m
-│   ├── maxratioapprox.m
-│   ├── newfigures.m
-│   ├── obf_laplace.m
-│   ├── obf_matrix.m
 │   ├── parameters.m
-│   ├── robust_obf_matrix.m
-│   ├──robust_obf_matrix2.m
-│   ├──testprunedlocation.asv
-│   └── testprunedlocation.m
-├── Results
-│   ├── CPR.csv
-│   ├── Cooordinates7.xlsx
-│   ├── Coordinates.csv
-│   ├── Coordinates.xls
-│   ├── Coordinates3layer.xlsx
-│   ├── Coordinates_update.xlsx
-│   ├── Tree_Structure.xlsx
-│   ├── prior_prob_343.mat
-│   └── tree.txt
+│   └── robust_obf_matrix2.m
 ├── Data
-│   ├── CORGI.png
-│   ├── z_fval_delta2.mat
-│   ├── z_fval_delta3.mat
-│   ├── z_fval_delta4.mat
-│   ├── z_fval_delta5.mat
-│   ├── z_fval_delta5_1.mat
-│   ├── z_fval_delta_diff.mat
-│   ├── z_fval_delta_diff_70.mat
-│   ├── z_fval_robust_delta2.mat
-│   ├── z_fval_robust_delta3.mat
-│   ├── z_fval_robust_delta4.mat
-│   ├── z_fval_robust_delta5.mat
-│   ├── z_fval_robust_delta5_1.mat
-│   ├── z_fval_robust_delta_diff.mat
-│   ├── z_fval_robust_delta_diff_70.mat
-│   ├── z_robust_diff_delta2.mat
-│   ├── z_robust_diff_delta4.mat
-│   ├── z_robust_diff_delta5.mat
-│   ├── z_robust_diff_delta5_1.mat
-│   ├── z_robust_diff_delta_diff.mat
-│   └── z_robust_diff_delta_diff_70.mat
+│   ├── Coordinates3layer.xlsx
+│   └── prior_prob_343.mat
+├── Results
+│   ├── nr_violates1.mat
+│   ├── nr_violates2.mat
+│   ├── z_fval.mat
+│   ├── z_fval_robust.mat
+│   └── z_robust_diff.mat
 └── README.md
 ```
 ## Code Guide ##
