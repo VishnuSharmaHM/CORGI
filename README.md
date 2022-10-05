@@ -88,7 +88,7 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
     h. ITER_MAX - Number of interations for each delta value. <br />
 4. Select the main.m and execute it by clicking "RUN" in MATLAB (In Code directory).
 
-   ![](Results/CORGI.png)
+   ![](Results/Main_Screenshot.png)
   
 5. After execution is completed, 6 .mat file will be stored in data directory. <br />
     a. running_time.mat <br />
