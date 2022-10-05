@@ -85,7 +85,10 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
     e. EPSILON_LAST - End value of EPSILON. <br />
     f. EPSILON_INCR - Increment value for loop. <br />
     g. DELTA - Number of locations to be pruned. <br />
-    h. ITER_MAX - Number of interations for each delta value. <br />
+    h. DELTA_FIRST - Intial value of DELTA. <br />
+    i. DELTA_LAST - End value of DELTA. <br />
+    j. DELTA_INCR - Increment value for loop. <br />
+    k. ITER_MAX - Number of interations for each delta value. <br />
 4. Select the main.m and execute it by clicking "RUN" in MATLAB (In Code directory).
 
    ![](Results/Main_Screenshot.png)
