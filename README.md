@@ -14,19 +14,19 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 
 ```bash
 ├── Code
-│   ├── haversine.m
-│   ├── main.m
-│   ├── parameters.m
-│   └── robust_obf_matrix2.m
+│   ├── haversine.m              * Calculate haversine distance between two locations.
+│   ├── main.m                   * Execute this code to generate output file.
+│   ├── parameters.m             * Set the values of various privacy parameter
+│   └── robust_obf_matrix2.m     * Generates robust obfuscation matrix depending on the parameters.
 ├── Data
-│   ├── Coordinates3layer.xlsx
-│   └── prior_prob_343.mat
+│   ├── Coordinates3layer.xlsx   *
+│   └── prior_prob_343.mat       *
 ├── Results
-│   ├── nr_violates1.mat
-│   ├── nr_violates2.mat
-│   ├── z_fval.mat
-│   ├── z_fval_robust.mat
-│   └── z_robust_diff.mat
+│   ├── nr_violates1.mat         *
+│   ├── nr_violates2.mat         *
+│   ├── z_fval.mat               *
+│   ├── z_fval_robust.mat        *
+│   └── z_robust_diff.mat        *
 └── README.md
 ```
 ## Code Guide ##
