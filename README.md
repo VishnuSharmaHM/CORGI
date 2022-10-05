@@ -77,15 +77,23 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
     > save ('.\z_robust_diff.mat', 'z_robust_diff')  <br />
     > save ('.\nr_violates1.mat', 'nr_violates1')  <br />
     > save ('.\nr_violates2.mat', 'nr_violates2')  <br />
-3.
+3. Update the values of the parameter.m (In Code directory) file.
+    a. NR_TASK - Number of Target location.
+    b. NR_LOC  - Total number of coordinates in the tree.
+    c. EPSILON - Privacy budget.
+    d. EPSILON_FIRST - Intial value of EPSILON.
+    e. EPSILON_LAST - End value of EPSILON.
+    f. EPSILON_INCR - Increment value for loop.
+    g. DELTA - Number of locations to be pruned.
+    h. ITER_MAX - Number of interations for each delta value.
 4. Execute the main.m in MATLAB (In Code directory).
 5. After execution is completed, 6 .mat file will be stored in data directory. <br />
-  a. running_time.mat <br />
-  b. z_fval.mat <br />
-  c. z_fval_robust.mat <br />
-  d. z_robust_diff.mat <br />
-  e. nr_violates1.mat <br />
-  f. nr_violates2.mat <br />
+    a. running_time.mat <br />
+    b. z_fval.mat <br />
+    c. z_fval_robust.mat <br />
+    d. z_robust_diff.mat <br />
+    e. nr_violates1.mat <br />
+    f. nr_violates2.mat <br />
 
 ## Correspondence ##
 
