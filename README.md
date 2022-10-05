@@ -71,7 +71,6 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 2. Update the address of the data directory and the address of the ouput file to the approriate address in main.m (In Code directory).
     > xy_coord = xlsread('.\data\Coordinates3layer.xlsx')  <br />
     > load('.\data\prior_prob_343.mat')  <br />
-    > save ('.\running_time.mat', 'running_time')  <br />
     > save ('.\z_fval.mat', 'z_fval')  <br />
     > save ('.\z_fval_robust.mat', 'z_fval_robust')  <br />
     > save ('.\z_robust_diff.mat', 'z_robust_diff')  <br />
@@ -93,13 +92,12 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 
    ![](Results/Main_Screenshot.png)
   
-5. After execution is completed, 6 .mat file will be stored in data directory. <br />
-    a. running_time.mat <br />
-    b. z_fval.mat <br />
-    c. z_fval_robust.mat <br />
-    d. z_robust_diff.mat <br />
-    e. nr_violates1.mat <br />
-    f. nr_violates2.mat <br />
+5. After execution is completed, 5 .mat file will be stored in data directory. <br />
+    a. z_fval.mat <br />
+    b. z_fval_robust.mat <br />
+    c. z_robust_diff.mat <br />
+    d. nr_violates1.mat <br />
+    e. nr_violates2.mat <br />
 
 ## Correspondence ##
 
