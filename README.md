@@ -68,7 +68,7 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 ```
 ## Code Guide ##
 1. Install the MATLAB if it is not installed in your system.
-2. Update the address of the data directory and address of the ouput file to the approriate address in main.m (In Code directory).
+2. Update the address of the data directory and the address of the ouput file to the approriate address in main.m (In Code directory).
     > xy_coord = xlsread('.\data\Coordinates3layer.xlsx')  <br />
     > load('.\data\prior_prob_343.mat')  <br />
     > save ('.\running_time.mat', 'running_time')  <br />
