@@ -22,12 +22,7 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 │   ├── Coordinates3layer.xlsx   * Latitude and Longitude values of 1 Parent node, 7 nodes in height-1, 
                                    49 nodes in height-2 and 343 nodes in height-3. 
 │   └── prior_prob_343.mat       * Prior probability of all the 343 leaf nodes of the tree.
-├── Results
-│   ├── nr_violates1.mat         *
-│   ├── nr_violates2.mat         *
-│   ├── z_fval.mat               *
-│   ├── z_fval_robust.mat        *
-│   └── z_robust_diff.mat        *
+├── Sample_Results
 └── README.md
 ```
 ## Code Guide ##
