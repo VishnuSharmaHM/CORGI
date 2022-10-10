@@ -42,6 +42,7 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
     i. DELTA_LAST - End value of DELTA. <br />
     j. DELTA_INCR - Increment value for loop. <br />
 4. Select the main.m and execute it by clicking "RUN" in MATLAB (In Code directory).
+
    ![](Results/Main_Screenshot.png)
   
 5. After execution is completed, 5 .mat file will be stored in Results directory. <br />
