@@ -32,7 +32,7 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
 2. Update the values of the parameter.m (In Code directory) file. <br />
     a. NR_TASK - Number of Target location. <br />
     b. NR_LOC * NR_LOC_Mul - Total number of coordinates in the tree.(NR_LOC=49, Alter the total number of nodes in Tree <br />
-                             by changing the value of NR_LOC_Mul ). <br />
+                             by changing the value of NR_LOC_Mul ). 
     c. EPSILON - Privacy budget. <br />
     d. EPSILON_FIRST - Intial value of EPSILON. <br />
     e. EPSILON_LAST - End value of EPSILON. <br />
