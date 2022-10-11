@@ -41,11 +41,11 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
     h. DELTA_FIRST - Intial value of DELTA. <br />
     i. DELTA_LAST - End value of DELTA. <br />
     j. DELTA_INCR - Increment value for loop. <br />
-4. Select the main.m and execute it by clicking "RUN" in MATLAB (In Code directory).
+4. Select the main.m file and execute it by clicking "RUN" in MATLAB (In Code directory).
 
    ![](Results/Main_Screenshot.png)
   
-5. After execution is completed, 5 .mat file will be stored in Results directory. <br />
+5. After execution is completed, 5 .mat file will be saved in Results directory. <br />
     a. z_fval.mat <br />
     b. z_fval_robust.mat <br />
     c. z_robust_diff.mat <br />
