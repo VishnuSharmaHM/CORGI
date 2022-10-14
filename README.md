@@ -46,12 +46,13 @@ CORGI ( Cust Omizable Robust Geo Indistinguishability), a framework for generati
    ![](Results/Main_Screenshot.png)
   
 5. After execution is completed, 5 .mat file will be saved in Results directory. <br />
+ <pre>
     a. z_fval.mat              &nbsp;&nbsp;&nbsp;&nbsp;  * Objective value (average estimation error of traveling cost) achieved by non-robust matrix <br />
     b. z_fval_robust.mat       &nbsp;&nbsp;&nbsp;&nbsp;* Objective value (average estimation error of traveling cost) achieved by CORGI <br />
     c. z_robust_diff.mat       &nbsp;&nbsp;&nbsp;&nbsp;* Difference between the objective value in consecutive iterations achieved by  CORGI<br />
     d. nr_violates1.mat        &nbsp;&nbsp;&nbsp;&nbsp;* Average number of Geo-Ind constraint violations in non-robust matrices<br />
     e. nr_violates2.mat        &nbsp;&nbsp;&nbsp;&nbsp;* Average number of Geo-Ind constraint violations in CORGI matrices<br />
-
+</pre>
 ## Correspondence ##
 
 📬 Primal Pappachan [📜](mailto:primal@psu.edu) [Homepage](https://primalpappachan.com/)<br />
